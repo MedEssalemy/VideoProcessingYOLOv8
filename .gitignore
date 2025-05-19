@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Temporary files created by the application
+temp/
+
+# YOLOv8 model (you may choose to include or exclude this depending on size)
+# Uncomment the following line if you want users to download the model themselves
+# models/yolov8n.pt
+
+# Local development configuration
+.env
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
