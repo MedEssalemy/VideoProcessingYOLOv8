@@ -1,0 +1,4 @@
+**pycache**/
+*.pyc
+.git/
+*.mp4
